@@ -4,7 +4,7 @@ node {
      echo "starting things"
      sleep 3
 
-    stage "Middle buddy"
+    stage "We are in the middle"
      echo "nearly there"
      sleep 1
 
